@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @KondradKolon
-- 👀 I’m interested in Sports, Anime, Food
-- 🌱 I’m currently learning React,Python,Java
-- 📫 How to reach me: Find me irl and talk
-- 😄 Pronouns: GOA/TED
-- ⚡ Fun fact: The One Piece is real
+
